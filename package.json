@@ -79,6 +79,6 @@
     "prop-types": "^15.6.1",
     "prop-types-extra": "^1.1.0",
     "react-overlays": "^0.8.0",
-    "react-transition-group": "^2.0.0"
+    "react-transition-group": "^2.9.0"
   }
 }
